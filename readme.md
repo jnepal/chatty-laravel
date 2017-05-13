@@ -1,1 +1,1 @@
-# Chatty Social Network Using larav
+# Chatty Social Network Using laravel
